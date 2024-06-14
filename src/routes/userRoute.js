@@ -11,4 +11,4 @@ userRoute.get('/about', (req, res) => {
   res.send('This is my about route..... ')
 })
 
-module.exports = userRoute
+module.exports = userRoute;
